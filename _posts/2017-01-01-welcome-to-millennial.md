@@ -12,7 +12,7 @@ image: 拉麵 一蘭.jpg
 ## 一蘭拉麵
 
 從日本來的拉麵，可以依照自己的喜好客製化拉麵，是非常經典的拉麵之一。
-
+<img src="https://github.com/anngood/anngood.github.io/blob/7b0346f6831a1aa9a59d6c34432a2eb57d499b33/assets/img/%E6%8B%89%E9%BA%B5%20%E4%B8%80%E8%98%AD.jpg">
 ## Example Content
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
