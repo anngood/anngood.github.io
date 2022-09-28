@@ -4,7 +4,7 @@ title: "拉麵地圖"
 author: "anngood"
 categories: documentation
 tags: [documentation,sample]
-image: 拉麵 一蘭.jpg
+image: 拉麵 熊越岳.jpg
 ---
 
 各位好，我是一個非常喜歡吃拉麵的大學生，夢想是把全台灣的拉麵都吃過一次，以下是我吃過的店家。
@@ -13,15 +13,21 @@ image: 拉麵 一蘭.jpg
 
 從日本來的拉麵，可以依照自己的喜好客製化拉麵，是非常經典的拉麵之一。
 <img src="https://github.com/anngood/anngood.github.io/blob/7b0346f6831a1aa9a59d6c34432a2eb57d499b33/assets/img/%E6%8B%89%E9%BA%B5%20%E4%B8%80%E8%98%AD.jpg">
-## Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+## 真劍拉麵
 
-## Questions?
+湯頭的特殊顏色很吸人眼球，不過這不是他們家的招牌，真劍拉麵的招牌是豚骨拉麵。
+<img src="https://github.com/anngood/anngood.github.io/blob/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%E7%9C%9F%E5%8A%8D.jpg">
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+## 墨洋拉麵
 
-## More Jekyll!
+衝著圖中的貝類去吃的，無論是叉燒及貝類都十分令人驚艷。
+<img src="https://github.com/anngood/anngood.github.io/blob/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%20%E5%A2%A8%E6%B4%8B.jpg">
+
+## 熊越岳
+
+我最喜歡的一間拉麵店，滿滿叉燒看了就很有食慾，吃起來肉質很嫩，店員也非常親切。
+<img src="https://github.com/anngood/anngood.github.io/blob/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%E7%86%8A%E8%B6%8A%E5%B2%B3.jpg">
 
 ### Lagrange
 
