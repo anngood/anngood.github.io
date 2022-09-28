@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "拉麵地圖"
+author: "anngood"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: 拉麵 一蘭.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+各位好，我是一個非常喜歡吃拉麵的大學生，夢想是把全台灣的拉麵都吃過一次，以下是我吃過的店家。
 
-## Getting Started
+## 一蘭拉麵
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+從日本來的拉麵，可以依照自己的喜好客製化拉麵，是非常經典的拉麵之一。
 
 ## Example Content
 
