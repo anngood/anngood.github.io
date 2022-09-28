@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Ramen',  url: 'facts'}
-- {name: 'Bar', url: 'resources'}
+- {name: 'Ramen',  url: 'Ramen'}
+- {name: 'Bar', url: 'Bar'}
 - {name: 'Sport',       url: 'sample-posts'}
 - {name: 'High school',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
