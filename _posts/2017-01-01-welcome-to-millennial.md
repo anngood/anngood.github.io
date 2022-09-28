@@ -38,3 +38,5 @@ image: 拉麵 熊越岳.jpg
 
 近輔大非常方便，他的湯頭是我目前最喜歡的，價位也很親民。
 <img src="https://github.com/anngood/anngood.github.io/blob/dc6f913612eb16cffce31481e09b59430fcc27dd/%E6%8B%89%E9%BA%B5%20%E7%AB%B9.jpg">
+
+<button type="home">回上一頁</button>
