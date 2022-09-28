@@ -32,15 +32,9 @@ image: 拉麵 熊越岳.jpg
 ## 隱家拉麵
 
 可以自行選擇份量的拉麵，配料給的很足，叉燒沒熟是他的一個敗筆。
-<img src="">
+<img src="https://github.com/anngood/anngood.github.io/blob/dc6f913612eb16cffce31481e09b59430fcc27dd/%E6%8B%89%E9%BA%B5%20%E9%9A%B1%E5%AE%B6.jpg">
 
 ## 竹拉麵
 
 近輔大非常方便，他的湯頭是我目前最喜歡的，價位也很親民。
-<img src="">
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+<img src="https://github.com/anngood/anngood.github.io/blob/dc6f913612eb16cffce31481e09b59430fcc27dd/%E6%8B%89%E9%BA%B5%20%E7%AB%B9.jpg">
