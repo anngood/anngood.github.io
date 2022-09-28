@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: Ramen
 category: Ramen
 permalink: /Ramen
 ---
