@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Ramen',  url: 'Ramen'}
 - {name: 'Bar', url: 'Bar'}
-- {name: 'Sport',       url: 'sample-posts'}
-- {name: 'High school',      url: 'documentation'}
+- {name: 'Sport',       url: 'Sport'}
+- {name: 'High school',      url: 'High school'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
