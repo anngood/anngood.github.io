@@ -27,7 +27,7 @@ image: 拉麵 熊越岳.jpg
 ## 熊越岳
 
 我最喜歡的一間拉麵店，滿滿叉燒看了就很有食慾，吃起來肉質很嫩，店員也非常親切。
-image: 拉麵 熊越岳.jpg
+<img src="https://github.com/anngood/anngood.github.io/blob/60c2c7eb026929a7ade60d56e01614e198fccb95/assets/img/%E6%8B%89%E9%BA%B5%20%E7%86%8A%E8%B6%8A%E5%B2%B3.jpg">
 
 ## 隱家拉麵
 
