@@ -22,7 +22,7 @@ image: 拉麵 熊越岳.jpg
 ## 墨洋拉麵
 
 衝著圖中的貝類去吃的，無論是叉燒及貝類都十分令人驚艷。
-<img src="https://github.com/anngood/anngood.github.io/blob/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%20%E5%A2%A8%E6%B4%8B.jpg">
+<img src="https://github.com/anngood/anngood.github.io/blob/ad3204b7d9eacece714c85b4d0275389d734ca7d/assets/img/%E6%8B%89%E9%BA%B5%20%20%E5%A2%A8%E6%B4%8B.jpg">
 
 ## 熊越岳
 
