@@ -4,10 +4,11 @@ title: "跑吧"
 author: "anngood"
 categories: resources
 tags: [documentation,sample]
-image: bar.jpg
+image: saito.jpg
 ---
 
 在大學期間也去過不少酒吧，不喜歡醉卻喜歡酒吧獨特的氛圍，讓人很放鬆。
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar.jpg)
 
 ## GEOGRAPHY BAR
 
@@ -47,3 +48,4 @@ image: bar.jpg
 店員人真的很好~光招待就一盤shots了，還會跟我們一起玩遊戲，讓我們在凹更多酒。他們家的妹酒喝起來真的很像果汁，喝起來很順。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar_terminalone.jpg)
 
+<input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
