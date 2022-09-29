@@ -13,7 +13,7 @@ image: 拉麵 熊越岳.jpg
 
 從日本來的拉麵，可以依照自己的喜好客製化拉麵，是非常經典的拉麵之一。
 
-![](https://github.com/anngood/anngood.github.io/blob/7b0346f6831a1aa9a59d6c34432a2eb57d499b33/assets/img/拉麵%20一蘭.jpg?raw=true)
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/7b0346f6831a1aa9a59d6c34432a2eb57d499b33/assets/img/%E6%8B%89%E9%BA%B5%20%E4%B8%80%E8%98%AD.jpg)
 
 ## 真劍拉麵
 
