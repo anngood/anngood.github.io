@@ -48,4 +48,14 @@ image: saito.jpg
 店員人真的很好~光招待就一盤shots了，還會跟我們一起玩遊戲，讓我們在凹更多酒。他們家的妹酒喝起來真的很像果汁，喝起來很順。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar_terminalone.jpg)
 
+## 第五站 ANOTHER ROUND 醉好
+
+這家的調酒很有特色，每一款的外觀都很特別，那邊的食物很好吃。
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar_anotherround.jpg)
+
+## 第六站 THEROOMBISTRO 房間餐酒
+
+這家很特別，是以某種玩具為賣點去呈現他的整體風格，去的時候還剛好還遇到熟人，就併桌一起喝了。
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar_theroombistro.jpg)
+
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
