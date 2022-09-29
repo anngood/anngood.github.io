@@ -18,7 +18,7 @@ image: 拉麵 熊越岳.jpg
 ## 真劍拉麵
 
 湯頭的特殊顏色很吸人眼球，不過這不是他們家的招牌，真劍拉麵的招牌是豚骨拉麵。
-<img src="https://github.com/anngood/anngood.github.io/blob/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%E7%9C%9F%E5%8A%8D.jpg">
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/bd7718f9965b5b0deed29f00ca6fffcb6e8d25aa/assets/img/%E6%8B%89%E9%BA%B5%20%E7%9C%9F%E5%8A%8D.jpg)
 
 ## 墨洋拉麵
 
