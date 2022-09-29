@@ -4,7 +4,7 @@ title: "拉麵地圖"
 author: "anngood"
 categories: documentation
 tags: [documentation,sample]
-image: "拉麵+熊越岳.jpg"
+image: city-1.jpg
 ---
 
 各位好，我是一個非常喜歡吃拉麵的大學生，夢想是把全台灣的拉麵都吃過一次，以下是我吃過的店家。
