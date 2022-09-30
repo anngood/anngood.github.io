@@ -2,8 +2,8 @@
 layout: post
 title: "戶外運動"
 author: "anngood"
-categories: sample
-tags: [sample]
+categories: documentation
+tags: [documentation,sample]
 image: sunmoonlake.jpg
 ---
 ### 我是個很喜歡從事戶外運動的人，也很喜歡挑戰自己。
