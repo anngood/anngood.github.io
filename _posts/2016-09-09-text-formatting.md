@@ -10,7 +10,7 @@ image: sunmoonlake.jpg
 
 ## 路跑 
 
-從國中就有開始參加，到高中及大學陸陸續續也參加了不少，不過都只有短短的5km，希望接下來我能突破自己。
+國中就有開始參加，到高中及大學陸陸續續也參加了不少，不過都只有短短的5km，希望接下來我能突破自己。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run1.jpg)
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run2.jpg)
 
