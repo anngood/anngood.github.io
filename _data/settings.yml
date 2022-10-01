@@ -6,16 +6,6 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
-[^1] 
-menu:
-[^2]- {name: 'Ramen',  url: 'Ramen'}
-[^3]- {name: 'Bar', url: 'Bar'}
-[^4]- {name: 'Sport',       url: 'Sport'}
-[^5]- {name: 'High school',      url: 'High school'}
-[^6]- {name: 'About',              url: 'about'}
-[^7]- {name: 'Contact',            url: 'contact'}
-
-
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 
