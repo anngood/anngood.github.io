@@ -25,4 +25,18 @@ image: sunmoonlake.jpg
 做為一個直排輪愛好者，溜冰也在我的狩獵範圍，特別是在炎炎夏日不想在室外曬太陽的時候，溜冰是一個好選擇。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/iceskate.gif)
 
+## 游泳
+
+我非常喜歡水上活動，先後考取了救生員證照、救生教練證照以及游泳教練證照，跟著團隊去了溪訓海訓，也在同個暑假成功泳渡日月潭。
+### 新店成功湖
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/training1.jpg)
+### 白沙灣
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/training2.jpg)
+### 金山海灘
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/training3.jpg)
+### 泳渡日月潭
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/sunmoonlake.jpg)
+
+### 期待未來還能參加更多活動，豐富自我。
+
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
