@@ -1,10 +1,28 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
-tags: [sample]
-image: 拉麵 一蘭.jpg
+title: "戶外運動"
+author: "anngood"
+categories: documentation
+tags: [documentation,sample]
+image: sunmoonlake.jpg
 ---
+### 我是個很喜歡從事戶外運動的人，也很喜歡挑戰自己。
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+## 路跑 
+
+國中就有開始參加，到高中及大學陸陸續續也參加了不少，不過都只有短短的5km，希望接下來我能突破自己。
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run1.jpg)
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run2.jpg)
+
+## 直排輪
+
+從國小玩到現在，國中還曾經是直排輪社社長，喜歡玩花式勝於競速。
+
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/rollerskate.gif)
+
+## 溜冰
+
+做為一個直排輪愛好者，溜冰也在我的狩獵範圍，特別是在炎炎夏日不想在室外曬太陽的時候，溜冰是一個好選擇。
+![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/iceskate.gif)
+
+<input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
