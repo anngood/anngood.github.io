@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: ramen.jpg
 ---
 
-### 我是一個非常喜歡吃拉麵的大學生，夢想是把全台灣的拉麵都吃過一次。 :ramen:
+### 我是一個非常喜歡吃拉麵的大學生，夢想是把全台灣的拉麵都吃過一次。 
 
 ## 一蘭拉麵
 
@@ -40,6 +40,6 @@ image: ramen.jpg
 近輔大非常方便，他的湯頭是我目前最喜歡的，價位也很親民。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/dc6f913612eb16cffce31481e09b59430fcc27dd/%E6%8B%89%E9%BA%B5%20%E7%AB%B9.jpg)
 
-### 這些是我覺得比較值得推薦給大家的，也歡迎私訊我告訴我哪裡還有好吃的拉麵。 :yum: :yum:
+### 這些是我覺得比較值得推薦給大家的，也歡迎私訊我告訴我哪裡還有好吃的拉麵。
 
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
