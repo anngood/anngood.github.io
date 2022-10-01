@@ -10,7 +10,7 @@ image: sunmoonlake.jpg
 
 ## 路跑 
 
-國中就有開始參加，到高中及大學陸陸續續也參加了不少，不過都只有短短的5km，希望接下來我能突破自己。 :runner:
+國中就有開始參加，到高中及大學陸陸續續也參加了不少，不過都只有短短的5km，希望接下來我能突破自己。 
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run1.jpg)
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/run2.jpg)
 
@@ -22,12 +22,12 @@ image: sunmoonlake.jpg
 
 ## 溜冰
 
-做為一個直排輪愛好者，溜冰也在我的狩獵範圍，特別是在炎炎夏日不想在室外曬太陽的時候，溜冰是一個好選擇。 :ski:
+做為一個直排輪愛好者，溜冰也在我的狩獵範圍，特別是在炎炎夏日不想在室外曬太陽的時候，溜冰是一個好選擇。 
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/iceskate.gif)
 
 ## 游泳
 
-我非常喜歡水上活動，先後考取了救生員證照、救生教練證照以及游泳教練證照，跟著團隊去了溪訓海訓，也在同個暑假成功泳渡日月潭。 :swimmer:
+我非常喜歡水上活動，先後考取了救生員證照、救生教練證照以及游泳教練證照，跟著團隊去了溪訓海訓，也在同個暑假成功泳渡日月潭。
 ### 新店成功湖
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/training1.jpg)
 ### 白沙灣
