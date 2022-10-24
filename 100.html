@@ -1,9 +1,13 @@
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script>
+
   $(document).ready(function(){
     $("#sendMessage").click(function(){
+      var arr = ["大吉", "中吉", "小吉", "末吉", "超吉", "終吉", "吉"]
+      var Index = Math.floor((Math.random()*arr.length));
+      var text = arr[Index];
         var N = $("#sign").val();
-        $("#boo").text(N + "今日運勢:大吉");
+        $("#boo").text(N + "今日運勢:"+text);
    //$("#name").val("");
     })
    
