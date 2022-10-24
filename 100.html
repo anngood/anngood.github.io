@@ -14,7 +14,7 @@ xhr.onreadystatechange = function () {
     document.getElementsByClassName('message')[0].textContent = serverResponse.userName + serverResponse.suffix;
   }
 };
-const body = JSON.stringify({ userName: userName, suffix: ' loves cats!' });
+const body = JSON.stringify({ userName: userName, suffix: ', 你好!' });
 xhr.send(body);
 
       // Add your code above this line
@@ -49,12 +49,12 @@ xhr.send(body);
   }
 </style>
 
-<h1>Cat Friends</h1>
+<h1>每日占卜</h1>
 <p class="message box">
-  Reply from Server will be here
+  告訴我你的名字
 </p>
 <p>
-  <label for="name">Your name:
+  <label for="name">你的名字:
     <input type="text" id="name"/>
   </label>
   <button id="sendMessage">
