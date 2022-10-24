@@ -58,8 +58,6 @@ image: saito.jpg
 這家很特別，是以某種玩具為賣點去呈現他的整體風格，去的時候還剛好還遇到熟人，就併桌一起喝了。
 ![](https://raw.githubusercontent.com/anngood/anngood.github.io/gh-pages/assets/img/bar_theroombistro.jpg)
 
-
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
-
 
 <input type="button" value="來占卜一下吧!" style="width:140px;height:50px;border:3px red double;background-color:pink;" onclick="location.href='https://anngood.github.io/100.html'">
