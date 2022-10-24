@@ -1,4 +1,12 @@
 <script>
+  $(document).ready(function(){
+    $("#sendMessage").click(function(){
+        var N = $("#sign").val();
+        $("#boo").text("Hi !"+ N);
+   //$("#name").val("");
+    })
+   
+})
   document.addEventListener('DOMContentLoaded', function(){
     document.getElementById('sendMessage').onclick = function(){
 
@@ -57,7 +65,11 @@ xhr.send(body);
   <label for="name">你的名字:
     <input type="text" id="name"/>
   </label>
+  <label for="sign">你的星座:
+    <input type="text" id="sign"/>
+  </label>
   <button id="sendMessage">
     占卜
   </button>
+  <h2 id = 'boo'>占卜結果</h2>
 </p>
