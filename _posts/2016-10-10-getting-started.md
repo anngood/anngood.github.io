@@ -44,3 +44,5 @@ image: ramen.jpg
 ### 這些是我覺得比較值得推薦給大家的，也歡迎私訊我告訴我哪裡還有好吃的拉麵。
 
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
+
+<input type="button" value="來占卜一下吧!" style="width:140px;height:50px;border:3px red double;background-color:pink;" onclick="location.href='https://anngood.github.io/100.html'">
