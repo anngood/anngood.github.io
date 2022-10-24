@@ -3,7 +3,6 @@
     document.getElementById('sendMessage').onclick = function(){
 
       const userName = document.getElementById('name').value;
-      const userSign = document.getElementById('sign').value;
       const url = 'https://jsonplaceholder.typicode.com/posts';
       // Add your code below this line
 const xhr = new XMLHttpRequest();
@@ -13,11 +12,9 @@ xhr.onreadystatechange = function () {
   if (xhr.readyState === 4 && xhr.status === 201){
     const serverResponse = JSON.parse(xhr.response);
     document.getElementsByClassName('message')[0].textContent = serverResponse.userName + serverResponse.suffix;
-    document.getElementsByClassName('message')[0].textContent = serverResponse.userSign + serverResponse.suffix;
   }
 };
 const body = JSON.stringify({ userName: userName, suffix: ', 你好!' });
-const body = JSON.stringify({ userSign: userSign, suffix: '今日的運勢是' });
 xhr.send(body);
 
       // Add your code above this line
@@ -59,9 +56,6 @@ xhr.send(body);
 <p>
   <label for="name">你的名字:
     <input type="text" id="name"/>
-  </label>
-  <label for="sign">你的星座:
-    <input type="text" id="sign"/>
   </label>
   <button id="sendMessage">
     Send Message
