@@ -39,7 +39,6 @@ image: sunmoonlake.jpg
 
 ### 期待未來還能參加更多活動，豐富自我。
 
-<input type="button" value="我愛貓咪" onclick="location.href='https://anngood.github.io/100.html'">
-<input type="button" value="jquery" onclick="location.href='https://anngood.github.io/101.html'">
+<input type="button" value="來占卜一下吧!" onclick="location.href='https://anngood.github.io/100.html'">
 
 <input type="button" value="回首頁" onclick="location.href='https://anngood.github.io/'">
